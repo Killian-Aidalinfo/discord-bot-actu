@@ -1,0 +1,10 @@
+# Fichiers à ignorer
+node_modules/
+.env
+dist/
+*.log
+.DS_Store
+.vscode/
+*.env.local
+*.env.production
+*.env.development
