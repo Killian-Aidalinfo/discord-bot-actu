@@ -53,7 +53,6 @@ Le bot a besoin des permissions suivantes :
 - `Send Messages` (pour répondre)
 - `Use Slash Commands`
 
-URL d'invitation : `https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=2048&scope=bot%20applications.commands`
 
 ## Utilisation
 
