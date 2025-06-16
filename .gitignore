@@ -8,4 +8,5 @@ dist/
 *.env.local
 *.env.production
 *.env.development
-memory
+memory.db
+memory*
